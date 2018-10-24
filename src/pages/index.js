@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
 import Panel from '../components/panel'
 import Layout from '../components/layout'

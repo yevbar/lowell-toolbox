@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import styles from './header.module.css'
 
 class Header extends React.Component {
   render() {

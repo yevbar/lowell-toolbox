@@ -7,6 +7,8 @@
     "Alex Ruiz <ruiz.alex0302@gmail.com>"
   ],
   "dependencies": {
+    "firebase": "^5.5.5",
+    "firebaseui": "^3.4.1",
     "gatsby": "^2.0.19",
     "gatsby-plugin-manifest": "^2.0.5",
     "gatsby-plugin-offline": "^2.0.5",
